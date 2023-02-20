@@ -1,7 +1,7 @@
 ## Web-Scraping
 
 ### Built with
-> - python with libraris (requests , BeautifulSoup , csv)
+> - python with libraries (requests , BeautifulSoup , csv)
 
 [Books Scraping](https://github.com/SamirHendawy/web-scraping/tree/main/books%20scraping)
 #### Description
